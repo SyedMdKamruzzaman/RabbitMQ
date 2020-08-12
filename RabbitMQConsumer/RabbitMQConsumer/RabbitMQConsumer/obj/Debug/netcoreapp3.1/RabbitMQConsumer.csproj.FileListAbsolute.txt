@@ -1,0 +1,16 @@
+E:\ProjectsTest\RabbitMQ\PublishMessage\RabbitMQConsumer\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQConsumer.exe
+E:\ProjectsTest\RabbitMQ\PublishMessage\RabbitMQConsumer\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.csprojAssemblyReference.cache
+E:\ProjectsTest\RabbitMQ\PublishMessage\RabbitMQConsumer\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.AssemblyInfoInputs.cache
+E:\ProjectsTest\RabbitMQ\PublishMessage\RabbitMQConsumer\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.AssemblyInfo.cs
+E:\ProjectsTest\RabbitMQ\PublishMessage\RabbitMQConsumer\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQConsumer.deps.json
+E:\ProjectsTest\RabbitMQ\PublishMessage\RabbitMQConsumer\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQConsumer.runtimeconfig.json
+E:\ProjectsTest\RabbitMQ\PublishMessage\RabbitMQConsumer\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQConsumer.runtimeconfig.dev.json
+E:\ProjectsTest\RabbitMQ\PublishMessage\RabbitMQConsumer\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQConsumer.dll
+E:\ProjectsTest\RabbitMQ\PublishMessage\RabbitMQConsumer\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQConsumer.pdb
+E:\ProjectsTest\RabbitMQ\PublishMessage\RabbitMQConsumer\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+E:\ProjectsTest\RabbitMQ\PublishMessage\RabbitMQConsumer\RabbitMQConsumer\RabbitMQConsumer\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+E:\ProjectsTest\RabbitMQ\PublishMessage\RabbitMQConsumer\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.csproj.CoreCompileInputs.cache
+E:\ProjectsTest\RabbitMQ\PublishMessage\RabbitMQConsumer\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.csproj.CopyComplete
+E:\ProjectsTest\RabbitMQ\PublishMessage\RabbitMQConsumer\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.dll
+E:\ProjectsTest\RabbitMQ\PublishMessage\RabbitMQConsumer\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.pdb
+E:\ProjectsTest\RabbitMQ\PublishMessage\RabbitMQConsumer\RabbitMQConsumer\RabbitMQConsumer\obj\Debug\netcoreapp3.1\RabbitMQConsumer.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\ProjectsTest\RabbitMQ\PublishMessage\RequestRabbitMQ\RequestRabbitMQ\bin\Debug\netcoreapp3.1\RequestRabbitMQ.exe
+E:\ProjectsTest\RabbitMQ\PublishMessage\RequestRabbitMQ\RequestRabbitMQ\obj\Debug\netcoreapp3.1\RequestRabbitMQ.csprojAssemblyReference.cache
+E:\ProjectsTest\RabbitMQ\PublishMessage\RequestRabbitMQ\RequestRabbitMQ\obj\Debug\netcoreapp3.1\RequestRabbitMQ.AssemblyInfoInputs.cache
+E:\ProjectsTest\RabbitMQ\PublishMessage\RequestRabbitMQ\RequestRabbitMQ\obj\Debug\netcoreapp3.1\RequestRabbitMQ.AssemblyInfo.cs
+E:\ProjectsTest\RabbitMQ\PublishMessage\RequestRabbitMQ\RequestRabbitMQ\bin\Debug\netcoreapp3.1\RequestRabbitMQ.deps.json
+E:\ProjectsTest\RabbitMQ\PublishMessage\RequestRabbitMQ\RequestRabbitMQ\bin\Debug\netcoreapp3.1\RequestRabbitMQ.runtimeconfig.json
+E:\ProjectsTest\RabbitMQ\PublishMessage\RequestRabbitMQ\RequestRabbitMQ\bin\Debug\netcoreapp3.1\RequestRabbitMQ.runtimeconfig.dev.json
+E:\ProjectsTest\RabbitMQ\PublishMessage\RequestRabbitMQ\RequestRabbitMQ\bin\Debug\netcoreapp3.1\RequestRabbitMQ.dll
+E:\ProjectsTest\RabbitMQ\PublishMessage\RequestRabbitMQ\RequestRabbitMQ\bin\Debug\netcoreapp3.1\RequestRabbitMQ.pdb
+E:\ProjectsTest\RabbitMQ\PublishMessage\RequestRabbitMQ\RequestRabbitMQ\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+E:\ProjectsTest\RabbitMQ\PublishMessage\RequestRabbitMQ\RequestRabbitMQ\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+E:\ProjectsTest\RabbitMQ\PublishMessage\RequestRabbitMQ\RequestRabbitMQ\obj\Debug\netcoreapp3.1\RequestRabbitMQ.csproj.CoreCompileInputs.cache
+E:\ProjectsTest\RabbitMQ\PublishMessage\RequestRabbitMQ\RequestRabbitMQ\obj\Debug\netcoreapp3.1\RequestRabbitMQ.csproj.CopyComplete
+E:\ProjectsTest\RabbitMQ\PublishMessage\RequestRabbitMQ\RequestRabbitMQ\obj\Debug\netcoreapp3.1\RequestRabbitMQ.dll
+E:\ProjectsTest\RabbitMQ\PublishMessage\RequestRabbitMQ\RequestRabbitMQ\obj\Debug\netcoreapp3.1\RequestRabbitMQ.pdb
+E:\ProjectsTest\RabbitMQ\PublishMessage\RequestRabbitMQ\RequestRabbitMQ\obj\Debug\netcoreapp3.1\RequestRabbitMQ.genruntimeconfig.cache
